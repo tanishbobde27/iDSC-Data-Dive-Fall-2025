@@ -3,7 +3,7 @@
 
 ## Project Presentation
 View the slides here:
-https://docs.google.com/presentation/d/your_id_here
+[https://docs.google.com/presentation/d/your_id_here](https://docs.google.com/presentation/d/1ksvkBCfOpJgNlSPqT3p96hyqQ5S1NcJmVbA1kdJ_AXU/edit?slide=id.g3ad54a9e3aa_0_0#slide=id.g3ad54a9e3aa_0_0)
 
 ## 📌 Overview  
 This project investigates how global semiconductor supply chain stress impacts the inflation of tech products.  
