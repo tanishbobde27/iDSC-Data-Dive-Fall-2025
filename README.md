@@ -1,6 +1,10 @@
 # The Truth About Tech Inflation  
 *UIUC Data Dive Project*  
 
+## Project Presentation
+View the slides here:
+https://docs.google.com/presentation/d/your_id_here
+
 ## 📌 Overview  
 This project investigates how global semiconductor supply chain stress impacts the inflation of tech products.  
 Although consumer-facing metrics like CPI suggest prices are falling, our analysis finds that tech companies continue raising prices — driving hidden inflation across the sector.
